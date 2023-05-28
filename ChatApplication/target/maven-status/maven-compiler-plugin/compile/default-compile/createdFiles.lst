@@ -1,0 +1,7 @@
+ChatApplication\ChatApplication\ChatMessagePojo$MessageType.class
+ChatApplication\ChatApplication\WebSocketConfig.class
+ChatApplication\ChatApplication\User.class
+ChatApplication\ChatApplication\WebSocketEventListener.class
+ChatApplication\ChatApplication\ServletInitializer.class
+ChatApplication\ChatApplication\ChatMessagePojo.class
+ChatApplication\ChatApplication\ChatApplication.class
